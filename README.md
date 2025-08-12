@@ -1,4 +1,4 @@
-=== README START ===
+
 # DevJobs — Vanilla JS
 ![CI](https://github.com/Giuseppe552/devjobs-vanilla/actions/workflows/ci.yml/badge.svg)
 
@@ -8,27 +8,28 @@ Responsive job board UI in **HTML/CSS/JS** (no frameworks). Features: search, lo
 
 ---
 
-## Quick start
+**## Quick start**
+
 ```bash
 npm ci
 npm run dev
 
-
-Tests
+---
+****## Tests****
 
 Copy
 Edit
 npm test
 
-Tech
+
+
+---
+Tech used:
+
 HTML, CSS, JavaScript, Playwright, GitHub Actions, GitHub Pages.
 
-Screenshots
-Add screenshots to:
 
-bash
-Copy
-Edit
-assets/screenshots/desktop.png
-assets/screenshots/mobile.png
-and they’ll render here once committed.
+---
+Screenshot of working app:
+
+<img width="955" height="731" alt="desktop" src="https://github.com/user-attachments/assets/eb1bce5c-303f-4611-96a7-e150ee06e37c" />
