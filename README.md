@@ -61,8 +61,7 @@ Runs locally at http://localhost:5173.
 
 ---
 
-**
-✅ Running Tests**
+**✅ Running Tests**
 bash
 Copy
 Edit
