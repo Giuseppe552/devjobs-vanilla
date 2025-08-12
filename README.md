@@ -4,7 +4,7 @@
 
 Responsive job board UI in **HTML/CSS/JS** (no frameworks). Features: search, location & tag filters, **Full Time only**, and **dark mode** (persistent). Accessible (keyboard + ARIA). **Playwright e2e tests** with **GitHub Actions CI**.
 
-**Live:** _add your GitHub Pages link after Step 4_
+**Live:** https://Giuseppe552.github.io/devjobs-vanilla/
 
 ---
 
