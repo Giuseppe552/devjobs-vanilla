@@ -10,7 +10,7 @@ This project demonstrates front-end development, accessibility best practices, a
 https://giuseppe552.github.com/devjobs-vanilla/
 
 
-
+---
 
 **✨ Features**
 Dynamic job filtering — search by title, location, and tags.
@@ -43,7 +43,7 @@ Hosting: GitHub Pages
 
 Version Control: Git / GitHub
 
-
+---
 
 
 
@@ -59,7 +59,7 @@ npm ci
 npm run dev
 Runs locally at http://localhost:5173.
 
-
+---
 
 **
 ✅ Running Tests**
@@ -71,7 +71,7 @@ This runs Playwright’s end-to-end suite to verify core UI functionality.
 
 
 
-
+---
 
 **📸 Screenshot**
 Desktop View:
@@ -80,6 +80,7 @@ https://github.com/Giuseppe552/devjobs-vanilla/blob/main/assets/screenshots/desk
 
 
 
+---
 
 **📌 Why I built this**
 I wanted to demonstrate:
@@ -93,7 +94,7 @@ Implementing automated testing & CI/CD pipelines.
 Showcasing a complete, production-ready front-end project.
 
 
-
+---
 
 **🔮 Potential Improvements**
 API integration for real job listings
