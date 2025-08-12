@@ -66,6 +66,7 @@ bash
 Copy
 Edit
 npm test
+
 This runs Playwright’s end-to-end suite to verify core UI functionality.
 
 
