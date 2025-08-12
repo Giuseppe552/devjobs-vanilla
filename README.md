@@ -1,4 +1,4 @@
-DevJobs — Vanilla JavaScript Job Board
+**DevJobs — Vanilla JavaScript Job Board**
 
 
 
@@ -12,7 +12,7 @@ https://giuseppe552.github.com/devjobs-vanilla/
 
 
 
-✨ Features
+**✨ Features**
 Dynamic job filtering — search by title, location, and tags.
 
 Full Time toggle — instantly filters full-time positions only.
@@ -32,7 +32,7 @@ Tested & deployed automatically — Playwright end-to-end tests run on GitHub Ac
 
 
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 Core: HTML5, CSS3 (Flexbox & Grid), Vanilla JavaScript (ES6+)
 
 Testing: Playwright for e2e tests
@@ -47,7 +47,7 @@ Version Control: Git / GitHub
 
 
 
-🚀 Getting Started
+**🚀 Getting Started**
 Clone the repository and install dependencies:
 
 bash
@@ -61,8 +61,8 @@ Runs locally at http://localhost:5173.
 
 
 
-
-✅ Running Tests
+**
+✅ Running Tests**
 bash
 Copy
 Edit
@@ -73,7 +73,7 @@ This runs Playwright’s end-to-end suite to verify core UI functionality.
 
 
 
-📸 Screenshot
+**📸 Screenshot**
 Desktop View:
 
 https://github.com/Giuseppe552/devjobs-vanilla/blob/main/assets/screenshots/desktop.png
@@ -81,8 +81,8 @@ https://github.com/Giuseppe552/devjobs-vanilla/blob/main/assets/screenshots/desk
 
 
 
-
-📌 Why I built this
+**
+📌 Why I built this**
 I wanted to demonstrate:
 
 Writing clean, modular JavaScript without relying on frameworks.
@@ -96,8 +96,8 @@ Showcasing a complete, production-ready front-end project.
 
 
 
-
-🔮 Potential Improvements
+**
+🔮 Potential Improvements**
 API integration for real job listings
 
 User authentication for saved searches
