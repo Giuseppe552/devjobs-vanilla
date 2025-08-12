@@ -81,8 +81,7 @@ https://github.com/Giuseppe552/devjobs-vanilla/blob/main/assets/screenshots/desk
 
 
 
-**
-📌 Why I built this**
+**📌 Why I built this**
 I wanted to demonstrate:
 
 Writing clean, modular JavaScript without relying on frameworks.
@@ -96,8 +95,7 @@ Showcasing a complete, production-ready front-end project.
 
 
 
-**
-🔮 Potential Improvements**
+**🔮 Potential Improvements**
 API integration for real job listings
 
 User authentication for saved searches
