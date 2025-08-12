@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "company": "Photosnap",
+    "position": "Senior Frontend Developer",
+    "postedAt": "1d ago",
+    "contract": "Full Time",
+    "location": "London, UK",
+    "tags": ["Frontend", "Senior", "JavaScript", "React", "Sass"]
+  },
+  {
+    "id": 2,
+    "company": "Manage",
+    "position": "Fullstack Developer",
+    "postedAt": "2d ago",
+    "contract": "Part Time",
+    "location": "Remote",
+    "tags": ["Fullstack", "Midweight", "JavaScript", "Node", "SQL"]
+  },
+  {
+    "id": 3,
+    "company": "Account",
+    "position": "Junior Frontend Developer",
+    "postedAt": "3d ago",
+    "contract": "Full Time",
+    "location": "Manchester, UK",
+    "tags": ["Frontend", "Junior", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 4,
+    "company": "MyHome",
+    "position": "UX Engineer",
+    "postedAt": "5d ago",
+    "contract": "Full Time",
+    "location": "Hybrid – London",
+    "tags": ["Frontend", "UX", "Accessibility", "TypeScript"]
+  },
+  {
+    "id": 5,
+    "company": "Loop Studios",
+    "position": "Backend Engineer",
+    "postedAt": "1w ago",
+    "contract": "Full Time",
+    "location": "Bristol, UK",
+    "tags": ["Backend", "Node", "API", "Docker", "PostgreSQL"]
+  },
+  {
+    "id": 6,
+    "company": "FaceIt",
+    "position": "Site Reliability Engineer",
+    "postedAt": "1w ago",
+    "contract": "Full Time",
+    "location": "Remote (EU)",
+    "tags": ["SRE", "AWS", "Kubernetes", "Linux", "Monitoring"]
+  }
+]

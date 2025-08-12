@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DevJobs — Vanilla</title>
+  <meta name="description" content="DevJobs UI built with HTML, CSS, and JS." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <h1>DevJobs</h1>
+      <button id="themeToggle" class="btn" aria-pressed="false" aria-label="Toggle dark mode">🌙</button>
+    </div>
+  </header>
+
+  <section class="search-bar">
+    <div class="container">
+      <form id="searchForm" aria-label="Job search">
+        <label class="sr-only" for="searchText">Search by title / company</label>
+        <input id="searchText" name="searchText" type="text" placeholder="Filter by title or company…" />
+
+        <label class="sr-only" for="locationText">Location</label>
+        <input id="locationText" name="locationText" type="text" placeholder="Filter by location…" />
+
+        <label class="checkbox">
+          <input id="fullTimeOnly" name="fullTimeOnly" type="checkbox" />
+          Full Time Only
+        </label>
+
+        <button type="submit" class="btn">Search</button>
+      </form>
+
+      <div id="activeTags" class="active-tags" aria-live="polite" aria-label="Active tag filters"></div>
+    </div>
+  </section>
+
+  <main id="main" class="container">
+    <div class="results-meta">
+      <span id="resultsCount" aria-live="polite">0 results</span>
+    </div>
+
+    <ul id="jobList" class="job-list" role="list"></ul>
+  </main>
+
+  <template id="jobCardTpl">
+    <li class="job-card">
+      <div class="job-top">
+        <span class="company"></span>
+        <span class="dot">•</span>
+        <span class="postedAt"></span>
+        <span class="dot">•</span>
+        <span class="contract"></span>
+      </div>
+      <h3 class="position"></h3>
+      <div class="job-bottom">
+        <span class="location"></span>
+      </div>
+      <div class="tags" aria-label="Tags"></div>
+    </li>
+  </template>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

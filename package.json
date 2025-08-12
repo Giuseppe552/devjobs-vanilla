@@ -1,0 +1,23 @@
+{
+  "name": "devjobs-vanilla",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "http-server -p 5173 -c-1 .",
+  "test": "playwright test",
+  "test:ui": "playwright test --ui",
+  "lint": "eslint .",
+  "format": "prettier -w ."
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "eslint": "^9.33.0",
+    "http-server": "^14.1.1",
+    "prettier": "^3.6.2"
+  }
+}
