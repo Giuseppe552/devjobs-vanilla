@@ -8,14 +8,14 @@ Responsive job board UI in **HTML/CSS/JS** (no frameworks). Features: search, lo
 
 ---
 
-**## Quick start**
+**Quick start**
 
 ```bash
 npm ci
 npm run dev
 
 ---
-****## Tests****
+Tests
 
 Copy
 Edit
@@ -30,6 +30,5 @@ HTML, CSS, JavaScript, Playwright, GitHub Actions, GitHub Pages.
 
 
 ---
-Screenshot of working app:
-
-<img width="955" height="731" alt="desktop" src="https://github.com/user-attachments/assets/eb1bce5c-303f-4611-96a7-e150ee06e37c" />
+**Desktop view:**
+![Desktop screenshot](assets/screenshots/desktop.png)
