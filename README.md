@@ -30,5 +30,5 @@ HTML, CSS, JavaScript, Playwright, GitHub Actions, GitHub Pages.
 
 
 ---
-**Desktop view:**
+Desktop view:
 ![Desktop screenshot](assets/screenshots/desktop.png)
